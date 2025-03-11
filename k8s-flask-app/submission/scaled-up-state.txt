@@ -1,0 +1,6 @@
+NAME                         READY   STATUS    RESTARTS      AGE
+flask-app-645dbf86dd-28zhz   1/1     Running   0             39s
+flask-app-645dbf86dd-5vj79   1/1     Running   1 (11m ago)   12m
+flask-app-645dbf86dd-b8lts   1/1     Running   0             39s
+flask-app-645dbf86dd-dxnbp   1/1     Running   2 (11m ago)   11h
+flask-app-645dbf86dd-ndhhk   1/1     Running   0             39s
